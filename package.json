@@ -1,0 +1,16 @@
+{
+    "name": "com.shellter.custom-camera",
+    "version": "1.0.0",
+    "displayName": "Custom Camera",
+    "description": "Extension of Cinemachine with effects like screen shake, screen pull, and camera switching.",
+    "unity": "2022.3",
+    "author": {
+      "name": "Elliott Hood",
+      "email": "elliotthood0@gmail.com",
+      "url": "https://elliott-hood.com"
+    },
+    "dependencies": {
+      "com.unity.cinemachine": "2.10.1",
+      "com.shellter.effector-value": "https://github.com/ElliottHood/Effector-Values.git"
+    }
+}  
