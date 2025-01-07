@@ -5,6 +5,7 @@ Extension of Cinemachine with effects like screen shake, screen pull, and camera
 ## Outside Dependencies
 
 - DOTween
+- Effector Values
 
 ## Installation
 
@@ -15,3 +16,4 @@ Extension of Cinemachine with effects like screen shake, screen pull, and camera
 3. Click the **+** button in the top-left corner.
 4. Select **Add package from git URL...**.
 5. Enter the following URL: https://github.com/ElliottHood/Effector-Values.git
+6. Enter the following URL: https://github.com/ElliottHood/Custom-Camera.git
