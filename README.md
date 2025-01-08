@@ -4,7 +4,9 @@ Extension of Cinemachine with effects like screen shake, screen pull, and camera
 
 ## Outside Dependencies
 
+- Cinemachine
 - DOTween
+- Effector-Values
 
 ## Installation
 
